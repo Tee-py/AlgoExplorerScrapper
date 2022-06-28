@@ -3,7 +3,7 @@ This codebase contains set of python classes and scripts which can be used to sc
 
 # Usage
 Bellow is a sample code on how to use the `Scrapper` & `ApiClient` class in the `scrapper.py` file.
-```
+```python
 from scrapper import APIClient, API, Scrapper, WEB
 
 # For API
